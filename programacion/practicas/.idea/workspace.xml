@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a5edadd-98e9-48dd-88f0-8aefcf48260d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/N_cantidades4_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/distancias4_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fibonacci4_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pago4_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trabajadores4_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cambio_pocicion5_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/escuela5_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matriz5_2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vectores5_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estatura4_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estatura4_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/suma4_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/suma4_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +41,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.N_cantidades4_7.executor": "Run",
+    "Application.cambio_pocicion5_6.executor": "Run",
     "Application.distancias4_11.executor": "Run",
+    "Application.escuela5_4.executor": "Run",
     "Application.estatura4_5.executor": "Run",
     "Application.fibonacci4_9.executor": "Run",
+    "Application.matriz5_2_1.executor": "Run",
     "Application.pago4_13.executor": "Run",
     "Application.suma4_3.executor": "Run",
     "Application.trabajadores4_15.executor": "Run",
+    "Application.vectores5_2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
