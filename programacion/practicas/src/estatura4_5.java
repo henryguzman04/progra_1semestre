@@ -9,7 +9,7 @@ public class estatura4_5 {
         est_pers= he.nextFloat();
         while (est_pers>0){
             sum_est=sum_est+est_pers;
-            System.out.println("ingrese la estatura registrada en numero entero");
+            System.out.println("ingrese la estatura registrada en numero entero ");
             est_pers= he.nextFloat();
             cont_pers++;
         }
